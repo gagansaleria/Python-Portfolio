@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project involves performing Exploratory Data Analysis (EDA) on sales data to uncover valuable insights that can drive business decisions. The goal of this analysis is to enhance customer experience and optimize sales by identifying key trends and patterns in the data.
+This project involves performing Exploratory Data Analysis (EDA) on sales data to uncover valuable insights that can drive business decisions. The goal of this analysis is to maintain inventory levels and optimize sales by identifying key trends and patterns in the data.
 
 ## Key Learnings
 
