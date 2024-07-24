@@ -23,3 +23,11 @@ This project involves performing Exploratory Data Analysis (EDA) on sales data t
 ## Conclusion
 
 This project demonstrates the practical application of data analysis techniques to real-world sales data. By leveraging EDA, businesses can gain deeper insights into their operations, leading to improved decision-making and strategic planning.
+
+## Contact
+
+If you have any questions or would like to discuss in more detail, feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/gagansays/).
+
+---
+
+Thank you for visiting this repository. I hope you find this informative and insightful!
